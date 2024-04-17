@@ -1,0 +1,10 @@
+<assemblies timestamp="03/28/2024 10:21:17">
+  <assembly name="/projects/challenge/Base.Test/bin/Debug/net6.0/Base.Test.dll" run-date="2024-03-28" run-time="10:21:17" total="1" passed="1" failed="0" skipped="0" time="3.807" errors="0">
+    <errors />
+    <collection total="1" passed="1" failed="0" skipped="0" name="Test collection for Base.Test.UnitTest1" time="0.022">
+      <test name="Base.Test.UnitTest1.GetWeatherForecast" type="Base.Test.UnitTest1" method="GetWeatherForecast" time="0.0220985" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>
